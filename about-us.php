@@ -6,7 +6,6 @@
     <title>Arab Graphics new</title>
     <link rel="stylesheet" href="assets/css/aos.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
@@ -19,7 +18,8 @@
 <div class="inner-banner">
   <?php include("header.php")?>
   <div class="inner-banner-cntnt">
-    <h2>Empowering Your Brand.</h2>
+   <div data-aos="fade-up" data-aos-duration="1500">
+    <h2>About Us</h2>
     <div class="d-flex justify-content-center align-items-center flex-column">
       <ul class="breadcrumps">
         <li>
@@ -29,10 +29,8 @@
           About
         </li>
       </ul>
-      <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-        <span>Our Service</span>
-    </button>
     </div>
+   </div>
   </div>
 
 </div>
@@ -41,13 +39,13 @@
 <section class="abt-cntnt">
   <div class="container">
     <div class="row d-flex align-items-center">
-      <div class="col-lg-5">
+      <div class="col-lg-5" data-aos="fade-right" data-aos-duration="1500">
       <div class="abt-imgs">
         <img src="assets/img/inner-abt-img.png" alt="" class="img-fluid">
         <img src="assets/img/rotate-img.png" alt="" class="rotate-img">
       </div>
       </div>
-      <div class="col-lg-7">
+      <div class="col-lg-7" data-aos="fade-left" data-aos-duration="1500">
         <div class="inner-abt-cnt">
           <h4>Empowering Your Brand Through Creativity, Driving Results. </h4>
 
@@ -64,38 +62,24 @@
 <section class="mision-vision-section">
   <div class="container">
     <div class="mission-vision">
-      <img src="assets/img/mision-and-vision.png" alt="" class="img-fluid vision-img">
-
-      <div class="naccs">
-        <div class="grid">
-         <div class="gc gc--1-of-3">
-          <div class="menu">
-           <div class="active"><span class="light"></span><span>Our vision</span></div>
-           <div><span class="light"></span><span>Our Mision</span></div>
+      <img src="assets/img/mision-and-vision.png" alt="" class="img-fluid vision-img" data-aos="fade-up" data-aos-duration="1500">
+       <div class="row">
+        <div class="col-lg-6">
+          <div class="value-cntnt">
+            <h3>Beyond Printing and Advertising</h3>
+            <p>Our vision transcends conventional printing and advertising; we aspire to redefine the 
+              boundaries of visual communication, empowering brands to make a lasting impact on their 
+              audiences. </p>
           </div>
-         </div>
-          
-         <div class="gc gc--2-of-3">
-          <ul class="nacc">
-           <li class="active">
-            <div class="value-cntnt">
-              <h3>Beyond Printing and Advertising:</h3>
-              <p>Our vision transcends conventional printing and advertising; we aspire to redefine the 
-                boundaries of visual communication, empowering brands to make a lasting impact on their 
-                audiences. </p>
-            </div>
-           </li>
-           <li>
-            <div class="value-cntnt">
-              <h3>Your Success, Our Mission: </h3>
-              <p>Arab Graphics is on a mission to empower brands through tailor-made printing and 
-                advertising solutions that drive growth, foster brand loyalty, and leave a lasting impression. 
-                We are committed to delivering excellence in every project, exceeding expectations, and 
-                helping our clients achieve their marketing objectives effectively.</p>
-            </div>
-           </li>
-          </ul>
-         </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="value-cntnt">
+            <h3>Your Success, Our Mission</h3>
+            <p>Arab Graphics is on a mission to empower brands through tailor-made printing and 
+              advertising solutions that drive growth, foster brand loyalty, and leave a lasting impression. 
+              We are committed to delivering excellence in every project, exceeding expectations, and 
+              helping our clients achieve their marketing objectives effectively.</p>
+          </div>
         </div>
        </div>
     </div>

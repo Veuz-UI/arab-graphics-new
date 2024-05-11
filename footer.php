@@ -1,10 +1,12 @@
-<section class="footer">
+<section class="footer" data-aos="fade-up" data-aos-duration="1500">
   <div class="container">
     <div class="row">
       <div class="col-lg-4">
         <div class="footer-logo">
-          <img src="assets/img/logo-white.png" alt="">
-          <p class="footer-para">Lorem Ipsum is simply dummy text of the printing and
+          <a href="index.php">
+            <img src="assets/img/logo-white.png" alt="">
+          </a>
+          <p class="footer-para">Lorem Ipsum is simply dummy text of the printing and
             typesetting industry. Lorem Ipsum has been the industry's
             standard dummy text ever since the 1500s, when an 
             unknown printer took a galley of type and</p>
@@ -24,7 +26,7 @@
       <div class="col-lg-3 sm-pb">
         <h3 class="footer-sub-head">Need help</h3>
         <div class="footer-contact-div">
-          <i class="fas fa-phone-alt"></i>
+          <i class="fas fa-phone"></i>
           <a href="">
             <h6>
               +966 56 619 1796
