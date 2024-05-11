@@ -6,10 +6,7 @@
           <a href="index.php">
             <img src="assets/img/logo-white.png" alt="">
           </a>
-          <p class="footer-para">Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's
-            standard dummy text ever since the 1500s, when an 
-            unknown printer took a galley of type and</p>
+          <p class="footer-para">Established in 2009, Arab Graphics has been at the forefront of the printing and advertising industry in Saudi Arabia, delivering top-notch solutions to meet the diverse needs of our clients. With over a decade of experience.</p>
         </div>
       </div>
       <div class="col-lg-2">
@@ -18,8 +15,7 @@
         <ul class="footer-links">
           <a href="index.php" class="active"> <li>Home</li></a>
           <a href="about-us.php"> <li>About </li></a>
-          <a href="service.php"> <li>Service</li></a>
-          <a href=""> <li>Contact</li></a>
+          <a href="contact.php"> <li>Contact</li></a>
           </a>
         </ul>
       </div>
@@ -45,10 +41,7 @@
       </div>
       <div class="col-lg-3">
         <h3 class="footer-sub-head">Subscribe Our Newsletter</h3>
-        <p class="footer-para">
-          Lorem Ipsum is simply dummy text of the 
-          printing and typesetting industry. Lorem Ipsum
-          has been the industry's standard dummy text 
+        <p class="footer-para"> 
         </p>
         <div class="footer-input">
           <input type="text" placeholder="Enter Mail">

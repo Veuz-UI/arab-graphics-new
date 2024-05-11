@@ -57,11 +57,7 @@
           <p>High-quality printing for large volume projects such as brochures, 
             catalogs, and magazines.</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
@@ -75,11 +71,7 @@
           <p>Producing eye-catching banners, posters, signage, and vehicle 
             branding for promotional purposes</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
       <div class="col-lg-5 order-1 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
@@ -103,11 +95,7 @@
           <p>Offering unique printing techniques such as foil stamping, embossing, 
             and spot UV coating for added visual impact. </p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
@@ -121,11 +109,7 @@
           <p>Creating custom packaging solutions including boxes, labels, and 
             inserts to enhance brand identity and customer experience. </p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
       <div class="col-lg-5 order-1 order-md-2" data-aos="fade-left" data-aos-duration="1500">
@@ -149,11 +133,7 @@
           <p>Personalizing printed materials with variable text, images, or 
             graphics to target specific audiences and improve engagement.</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
@@ -167,11 +147,7 @@
           <p>Utilizing the versatile silk screen printing technique, we produce 
             vibrant and durable prints on various surfaces, including textiles, plastics, and paper. </p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
       <div class="col-lg-5 order-1 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
@@ -196,11 +172,7 @@
           <p>With our UV printing capabilities, we create stunning prints on a wide range 
             of substrates, including glass, acrylic, wood, and metal. </p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
@@ -216,16 +188,33 @@
             shirts etc.. Sublimation printing offers long-lasting, fade-resistant prints with exceptional 
             clarity and detail, perfect for personalized gifts and promotional items.</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
       <div class="col-lg-5 order-1 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/printing-serv/sublimation.png" alt="" class="img-fluid">
+        </div>
+      </div> 
+      
+    </div>
+   </div>
+
+   <div class="main-services">
+    <div class="row d-flex align-items-center"> 
+      <div class="col-lg-5"  data-aos="fade-left" data-aos-duration="1500">
+        <div class="srvce-dtl-img">
+          <img src="assets/img/printing-serv/digital.png" alt="" class="img-fluid">
+        </div>
+      </div> 
+
+      <div class="col-lg-7"  data-aos="fade-right" data-aos-duration="1500">
+        <div class="srvce-dtl-cntns">
+          <h3>Digital Printing</h3>
+          <p> Fast and efficient printing for small to medium print runs, including 
+            business cards, flyers, and posters.</p>
+
+            
         </div>
       </div> 
       
