@@ -59,6 +59,10 @@ a {
     color: var(--secondary-color) !important;
 }
 
+.main-nav-links ul li a:focus{
+    color: var(--color-white);
+}
+
 .main-nav-links ul li a:hover {
     color: var(--secondary-color) !important;
     transition: 1s;

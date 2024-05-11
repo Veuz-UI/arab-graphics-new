@@ -55,11 +55,7 @@
           <p>Designing and producing a wide range of signs for indoor 
           and outdoor use, including storefront signage, directional signs, and more.</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
@@ -73,11 +69,7 @@
           <p>Creating custom display stands for trade shows, exhibitions, and retail 
             environments to showcase products and services effectively. </p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
       <div class="col-lg-5 order-1 order-md-2" data-aos="fade-left" data-aos-duration="1500">
@@ -101,11 +93,7 @@
           <p>Developing cohesive brand identities through logo design, brand 
             guidelines, and consistent visual elements across all marketing materials. </p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
@@ -119,11 +107,7 @@
           <p>Designing and constructing engaging exhibition booths that 
             attract visitors and effectively communicate brand messages.</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
       <div class="col-lg-5 order-1 order-md-2" data-aos="fade-left" data-aos-duration="1500">
@@ -147,11 +131,7 @@
           <p>Providing comprehensive branding solutions for corporate 
             events, including signage, banners, promotional materials, and more.</p>
 
-            <a href="service-detailes.php">
-              <button class="primary-btn btn-1 hover-filled-slide-down" type="button">
-                <span>View-more</span>
-            </button>
-            </a>
+            
         </div>
       </div> 
     </div>
