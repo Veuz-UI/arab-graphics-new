@@ -531,17 +531,19 @@ a {
 .adv-cnt-box-2 {
     height: 380px;
     width: 100%;
-    background-color: #E9E9EB;
+    background-color: #0088B2;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     padding: 30px 30px;
+    position: relative;
+    color: var(--color-white);
 }
 
 .head-3 {
-    color: #361E31;
-    font-size: 24px;
+    color: var(--color-white);
+    font-size: 34px;
     font-weight: 600;
     text-align: center;
     margin-top: 20px;
@@ -1273,6 +1275,13 @@ a {
     }
 }
 
+@media (max-width: 1200px) {
+    .sub-head {
+        font-size: 30px;
+        line-height: 43px;
+    }
+}
+
 @media (max-width: 1024px) {
     .main-nav .container-fluid {
         padding: 0px 50px;
@@ -1429,8 +1438,8 @@ a {
     .abt-cntnt {
         padding: 50px 0px;
     }
-    .naccs{
-        margin: 60px auto 0;
+    .footer-input input{
+        width: 40%;
     }
 }
 
