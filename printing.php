@@ -65,7 +65,7 @@
 
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-7 order-2 order-md-1"  data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-7 order-2 order-lg-1"  data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3>Large Format Printing</h3>
           <p>Producing eye-catching banners, posters, signage, and vehicle 
@@ -74,7 +74,7 @@
             
         </div>
       </div> 
-      <div class="col-lg-5 order-1 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-2"  data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/printing-serv/vehicle-branding.png" alt="" class="img-fluid">
         </div>
@@ -103,7 +103,7 @@
 
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-7 order-2 order-md-1" data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-7 order-2 order-lg-1" data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3>Packaging Printing</h3>
           <p>Creating custom packaging solutions including boxes, labels, and 
@@ -112,7 +112,7 @@
             
         </div>
       </div> 
-      <div class="col-lg-5 order-1 order-md-2" data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/printing-serv/pakaging.png" alt="" class="img-fluid">
         </div>
@@ -122,12 +122,12 @@
    </div>
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-5 order-1 order-md-1"  data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-1"  data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/printing-serv/variable.png" alt="" class="img-fluid">
         </div>
       </div> 
-      <div class="col-lg-7 order-2 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-7 order-2 order-lg-2"  data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3> Variable Data Printing</h3>
           <p>Personalizing printed materials with variable text, images, or 
@@ -141,7 +141,7 @@
 
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-7 order-2 order-md-1"  data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-7 order-2 order-lg-1"  data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3>Silkscreen printing</h3>
           <p>Utilizing the versatile silk screen printing technique, we produce 
@@ -150,7 +150,7 @@
             
         </div>
       </div> 
-      <div class="col-lg-5 order-1 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-2"  data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/printing-serv/silkline.png" alt="" class="img-fluid">
         </div>
@@ -180,7 +180,7 @@
 
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-7 order-2 order-md-1"  data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-7 order-2 order-lg-1"  data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3>Sublimation Printing</h3>
           <p> Our sublimation printing services allow for the transfer of vibrant, 
@@ -191,7 +191,7 @@
             
         </div>
       </div> 
-      <div class="col-lg-5 order-1 order-md-2"  data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-2"  data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/printing-serv/sublimation.png" alt="" class="img-fluid">
         </div>

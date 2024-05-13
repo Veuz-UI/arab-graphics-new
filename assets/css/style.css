@@ -7,7 +7,7 @@
     --third-color: #03D2C8;
     --yellow-color: #FEC20F;
     --color-white: #fff;
-    --color-black: #000;
+    --color-black: #131212;
     --main-font: "Sora", sans-serif !important;
     --bg-main-color: #fff;
     --para-color: #8890AE;
@@ -60,7 +60,7 @@ a {
 }
 
 .main-nav-links ul li a:focus{
-    color: var(--color-white);
+    color: var(--color-white) !important;
 }
 
 .main-nav-links ul li a:hover {
@@ -126,6 +126,12 @@ a {
 
 #navbar.scrolled a {
     color: var(--color-black) !important;
+    transition: 0.5s;
+}
+
+#navbar.scrolled a:hover {
+    color: var(--secondary-color) !important;
+    transition: 0.5s;
 }
 
 #navbar.scrolled a.active {
@@ -1200,6 +1206,10 @@ a {
     text-align: center;
 }
 
+.footer-main-links{
+    padding-left: 100px;
+}
+
 @media (max-width: 1600px) {
     .banner-content h2 span {
         font-size: 35px;
@@ -1441,6 +1451,25 @@ a {
     .footer-input input{
         width: 40%;
     }
+    .footer-main-links {
+        padding-left: 0px;
+    }
+    .footer .line{
+        margin-top: 0;
+    }
+    .srvce-dtl-img img {
+        width: 100%;
+    }
+    .main-nav .navbar-toggler-icon{
+        filter: invert(1) !important;
+    }
+
+    #navbar.scrolled .main-nav .navbar-toggler-icon{
+        filter: invert(0) !important;
+    }
+    .breadcrumps{
+        margin: 9px 0px;
+    }
 }
 
 @media only screen and (min-width: 100px) and (max-width:766px) {
@@ -1563,5 +1592,11 @@ a {
     }
     .value-cntnt{
         margin-top: 40px;
+    }
+    .footer-input input {
+        width: 80%;
+    }
+    .abt-bx {
+        height: 480px;
     }
 }

@@ -63,7 +63,7 @@
 
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-7 order-md-1 order-2" data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-7 order-lg-1 order-2" data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3>Display Stands</h3>
           <p>Creating custom display stands for trade shows, exhibitions, and retail 
@@ -72,7 +72,7 @@
             
         </div>
       </div> 
-      <div class="col-lg-5 order-1 order-md-2" data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/advertising-serv/display-stands.png" alt="" class="img-fluid">
         </div>
@@ -101,7 +101,7 @@
 
    <div class="main-services">
     <div class="row d-flex align-items-center"> 
-      <div class="col-lg-7 order-2 order-md-1"  data-aos="fade-right" data-aos-duration="1500">
+      <div class="col-lg-7 order-2 order-lg-1"  data-aos="fade-right" data-aos-duration="1500">
         <div class="srvce-dtl-cntns">
           <h3>Exhibition Booth Design</h3>
           <p>Designing and constructing engaging exhibition booths that 
@@ -110,7 +110,7 @@
             
         </div>
       </div> 
-      <div class="col-lg-5 order-1 order-md-2" data-aos="fade-left" data-aos-duration="1500">
+      <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-duration="1500">
         <div class="srvce-dtl-img">
           <img src="assets/img/advertising-serv/exhibition.png" alt="" class="img-fluid">
         </div>
